@@ -7,7 +7,7 @@ Tags:
   - Hash
 ---
 
-# 🚀 _Day 2. Count Pair with Given Sum_ 🧠
+# 🚀 _Day 43. Count Pair with Given Sum_ 🧠
 
 The problem can be found at the following link: [Question Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-pairs-with-given-sum--150253)
 
